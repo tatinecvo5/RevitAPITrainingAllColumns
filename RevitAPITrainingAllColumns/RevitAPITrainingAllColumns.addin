@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPITrainingAllColumns.dll"</Assembly>
+		<AddInId>029F3FDF-205A-4D8E-840A-C04AF3F1AC99</AddInId>
+		<FullClassName>RevitAPITrainingAllColumns.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Все колонны в модели</Text>
+	</AddIn>
+</RevitAddIns>
